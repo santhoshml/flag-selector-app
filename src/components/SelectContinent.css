@@ -1,0 +1,11 @@
+.continent-div {
+    /* background-color: aqua; */
+    width: 30%;
+    height : 100px;
+    margin-top : 20px;
+    border-right: 1px #000 solid;
+  }
+  
+  .selected-data {
+    margin-top: 100px;
+  }

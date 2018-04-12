@@ -1,0 +1,19 @@
+.country-element{
+    border: 1px #000000 solid;
+    padding-top : 0.5px;
+    padding-top : 0.5px;
+}
+
+.country-dropdown {
+    background-color:rgb(249, 252, 252);
+    width: '80%';
+    margin-left : 10%;
+    margin-right: 10%;
+    text-align: left;
+    border-radius: 10px;
+
+}
+
+.highlight-background{
+    background-color: beige;
+}
